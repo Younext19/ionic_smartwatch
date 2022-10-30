@@ -1,0 +1,7 @@
+{
+  "name": "sport_monitor",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
